@@ -5,6 +5,7 @@
 * Got a B in this course. Highly recommended. 
 * How to study: Make sure that you fit the course description exactly. 
 * Format of exam: 
-  * Essay: 2 Choose 1, would be in a subset of weeks
+  * Essay: 2 Choose 1, would be in a subset of weeks. Cover three sides of your booklet, minimum
   * Short answer 6 Choose 3. An example would be Slow Disaster
-    *In which case, you state the context (Week 12 or Week 6?), explain the term, and then give an example before relating it back. Standrard one paragraph per short answer. 
+  * In which case, you state the context (Week 12 or Week 6?), explain the term, and then give an example before relating it back.
+  * Standard one paragraph per short answer. 
