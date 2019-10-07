@@ -3,6 +3,7 @@
 * As taught by Lyle Fearnley, SUTD. Note that these are the slides and lectures of 2018. He may have changed it. 
 * Essay is suggested. Please don't copy. It's always changing anyway. (see Essay 2019 image as to why I say so)
 * Got a B in this course. Highly recommended. 
+* .onepkg and .pdf version of my notes now available!
 * How to study: Make sure that you fit the course description exactly. 
 * Format of exam: 
   * Essay: 2 Choose 1, would be in a subset of weeks. Cover three sides of your booklet, minimum
